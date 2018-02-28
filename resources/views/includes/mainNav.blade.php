@@ -14,21 +14,6 @@
             <li class="nav-item">
                 <a class="nav-link" href="{{route('contact')}}">Contact</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/signup">Sign Up</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/login">Log In</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/viewmessages">View Messages</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/messages"> Messages</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/logout">Logout</a>
-            </li>
 
         </ul>
         <form class="form-inline mt-2 mt-md-0">

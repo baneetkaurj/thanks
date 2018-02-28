@@ -21,26 +21,3 @@ Route::post('/contact', 'PagesController@store')->name('contact.store');
 
 Route::get('/thanks/{name}', 'PagesController@thanks')->name('thanks');
 
-/*Route::post('/contact', function () {
-
-});
-
-Route::get('/signup', function () {
-    return view('signup');
-});
-
-Route::get('/login', function () {
-    return view('login');
-});
-
-Route::get('/viewmessages', function () {
-    return view('viewmessages');
-});
-
-Route::get('/messages', function () {
-    return view('messages');
-});
-
-Route::get('/logout', function () {
-    return view('logout');
-});/*
